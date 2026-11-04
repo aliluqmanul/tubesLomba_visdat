@@ -1,0 +1,7 @@
+# Environment used for feature experiments; no Kaggle authentication required.
+numpy==2.2.3
+pandas==2.2.3
+scikit-learn==1.6.1
+lightgbm==4.7.0
+pyarrow==25.0.1
+matplotlib==3.10.1

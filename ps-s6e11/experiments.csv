@@ -1,0 +1,4 @@
+waktu,nama,cv_auc,std_fold,public_lb
+2026-11-03 21:35,lgb_baseline,0.946318,0.003092,
+2026-11-03 22:47,lgb_baseline,0.946318,0.003092,
+2026-11-03 23:11,lgb_baseline,0.946318,0.003092,
